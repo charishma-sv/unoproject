@@ -1,5 +1,5 @@
 function hello() {
-  const x = 7;
+  const x = 9;
   console.log(x);
   const y = 'x';
   if (x < 0) {
